@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Му name</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GITHUB+profile)](https://git.io/typing-svg)
+
 <!--
 **panchopensmart/panchopensmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
