@@ -2,7 +2,7 @@
 
 <h1>Hi! Good evening.</h1>
   <h2>This is my Github profile. I post my open source projects here.<br />
-       My main tech stack: PHP, JavaScript, SCSS, Web Application Development<br/>
+       My main tech stack: PHP, JavaScript, SCSS, Web Application Development.<br/>
   </h2>
    <h2><code>My favorite instruments:</code></h2>
    <h2>
