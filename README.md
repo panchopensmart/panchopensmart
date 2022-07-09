@@ -4,5 +4,5 @@
   <h2>This is my Github profile. I post my open source projects here.<br />
   My main tech stack: <code>TypeScript/React</code>, <code>SCSS</code>, <code>Kali Linux</code>.<br/>
   </h2>
-  <a href="https://t.me/puburr">My Telegram for connect</a>
+  <a href="https://t.me/puburr"><i>My Telegram for connect</i></a>
  
