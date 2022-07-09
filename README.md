@@ -2,5 +2,5 @@
 
 <h1>Hi! Good evening.</h1>
   <h2>This is my Github profile. I post my open source projects here.<br />
-  My main tech stack: <code>TypeScript</code> <code>React</code>, <code>SCSS</code>, <code>Kali Linux</code>.<br/>
+  My main tech stack: <code>TypeScript/React</code>, <code>SCSS</code>, <code>Kali Linux</code>.<br/>
   </h2>
