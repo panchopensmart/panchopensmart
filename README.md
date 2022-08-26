@@ -3,5 +3,4 @@
 <h1>Hi! Good evening.</h1>
   <h2>This is my Github profile. I post my open source projects here.<br />
   </h2>
-  <a href="https://t.me/puburr"><i>My Telegram for connect</i></a>
  
