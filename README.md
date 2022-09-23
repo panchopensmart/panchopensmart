@@ -8,7 +8,10 @@
 <p>My name is Alexander. I'm 20 years old. I have been actively engaged in Frontend for 2 years. On this account I publish my projects for the portfolio. </p>
 
 <h3>My leetcode statistics</h3>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=panchopensmart&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+<h3>Lang statistics</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
