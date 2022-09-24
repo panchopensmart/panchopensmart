@@ -10,7 +10,7 @@
  <li>I develop projects in React/JS</li>
  <li>I do network administration</li>
  <li>I study OSI TCP/IP protocolsI</li>
- <li>like to solve algorithmic problems❤</li>
+ <li>Like to solve algorithmic problems❤</li>
  <li>In my free time I study Computer Scince literature</li>
 </ul>
 <h1 align="center">
