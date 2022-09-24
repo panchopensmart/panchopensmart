@@ -12,11 +12,11 @@
 
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=panchopensmart&theme=dark)](https://github.com/KnlnKS/leetcode-stats)<p align="center"><img src="https://media.giphy.com/media/1gXg8Hrjah7bmm45W7/giphy.gif" width="200" />
+<span>![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=panchopensmart&theme=dark)]</span>(https://github.com/KnlnKS/leetcode-stats)<img src="https://media.giphy.com/media/26tn6t51nYZDwNIqI/giphy.gif" width="166" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Lang statistics</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/26tn6t51nYZDwNIqI/giphy.gif" width="166"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  <br/>
  <i>Миру мир☮</i>
