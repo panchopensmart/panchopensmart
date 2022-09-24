@@ -6,6 +6,12 @@
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
 <h3>My name is Alexander. I'm 20 years old. I have been actively engaged in Frontend for 2 years. On this account I publish my projects for the portfolio.  </h3>
+<ul>
+ <li>I develop projects in React/JS</li>
+ <li>I do network administration</li>
+ <li>I study OSI TCP/IP protocolsI</li>
+ <li>like to solve algorithmic problems❤</li>
+</ul>
 <h1 align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
