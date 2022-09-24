@@ -5,7 +5,7 @@
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" /><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" /> <p>
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
-<h3>My name is Alexander. I'm 20 years old. I have been actively engaged in Frontend for 2 years. On this account I publish my projects for the portfolio.  </h3>
+<h3>My name is Alexandr. I'm 20 years old. I have been actively engaged in Frontend for 2 years. On this account I publish my projects for the portfolio.  </h3>
 <ul>
  <li>I develop projects in React/JS</li>
  <li>I do network administration</li>
