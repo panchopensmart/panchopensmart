@@ -22,7 +22,7 @@
 
 <br />
 <h2>𝕄𝕪 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕥𝕠𝕠𝕝𝕤:</h2>
-<p><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/><img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" width="100"/><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></p>
+<p><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></p>
 
  <br/>
  <hr>
