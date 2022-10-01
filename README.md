@@ -22,7 +22,7 @@
 
 <br />
 <h2>𝕄𝕪 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕥𝕠𝕠𝕝𝕤:</h2>
-<p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
+<p><a target="_blank" href="https://www.jetbrains.com/phpstorm/"><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
 
  <br/>
  <hr>
