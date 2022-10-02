@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center"><img src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif" width="480" /><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" /> <p>
+
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
 <h3>My name is Alexandr. I'm 20 years old. I have been actively engaged in Frontend for 2 years. On this account I publish my projects for the portfolio.  </h3>
