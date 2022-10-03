@@ -28,6 +28,6 @@
 <br/>
 
 <h2>𝕄𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖𝕤:</h2>
-<p align="left"><a><img src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" width="300"/></a><img width="30"></img><a><img src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" width="60"/></a><img width="30"></img><a><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" width="154"/></a></p>
+<p align="left"><a><img src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" width="300"/></a><a><img src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" width="60"/><a><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" width="154"/></a></p>
  <hr>
  <i>Миру мир☮</i>
