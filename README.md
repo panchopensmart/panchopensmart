@@ -26,8 +26,5 @@
 <p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
 
 <br/>
-
-<h2>𝕄𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖𝕤:</h2>
-<p align="right"><a href="https://codepen.io/panchopensmart"><img src="https://res.cloudinary.com/css-tricks/images/w_1024,h_193/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" width="300"/></a><a href="https://codesandbox.io/u/panchopensmart"><img src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" width="60"/><a href="https://www.behance.net/alexandpolupan"><img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png" width="154"/></a></p>
  <hr>
  <i>Миру мир☮</i>
