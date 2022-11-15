@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi there
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Wow, it's good to see you!
+<img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="32"/></h1>
 
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
