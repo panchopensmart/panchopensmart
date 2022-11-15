@@ -5,7 +5,7 @@
 
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
-<h3>My name is Alexandr. I'm 20 years old. I have been actively engaged in Frontend for 2 years. I publish my projects for the portfolio on this account.  </h3>
+<h3>My name is Alexandr. I'm 20 years old. I have experience several years in Frontend development. I publish my projects for the portfolio on this account.  </h3>
 <ul>
  <li>I develop projects in React/JS</li>
  <li>I do network administration</li>
