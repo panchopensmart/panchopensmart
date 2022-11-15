@@ -1,9 +1,8 @@
 
 
-<h1 align="center">
- <img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" height="70"/>
+<h1 align="center"> 
  Wow, it's good to see you!
-<img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" height="70"/></h1>
+</h1>
 
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
