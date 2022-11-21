@@ -9,7 +9,7 @@
 <h3>My name is Alexandr. I'm 20 years old. I have experience several years in Frontend development. I publish my projects for the portfolio on this account.  </h3>
 <ul>
  <li>I develop projects on React/JS</li>
- <li>I like to develop computer games  <b>(+[__]∙:∙)</b> </li>
+ <li>I like to develop computer games  <b> [+..••] </b> </li>
  <li>Like to solve algorithmic problems❤</li>
  <li>In my free time I study Computer Scince literature</li>
  <li>I do network administration</li>
