@@ -10,7 +10,7 @@
 <ul>
  <li>I develop projects on React/JS</li>
  <li>I like to develop computer games  <b> [+..••] </b> </li>
- <li>Like to solve algorithmic problems❤</li>
+ <li>I like to solve algorithmic problems❤</li>
  <li>In my free time I study Computer Scince literature</li>
  <li>I do network administration</li>
  <li>I study OSI TCP/IP protocols</li>
