@@ -25,18 +25,18 @@
 <br />
 
 <h2>𝕄𝕪 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕥𝕠𝕠𝕝𝕤:</h2>
-<p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
+<p><a href=""><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
 
 <br/>
 
 
 <h2>𝕄𝕪 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕓𝕠𝕠𝕜𝕤:</h2>
-<p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://avatars.mds.yandex.net/get-mpic/7660527/img_id6590246081316973856.jpeg/orig" height="250"/></a>
+<p><a href="https://market.yandex.ru/product--gid-po-computer-science-rasshirennoe-izdanie/1756263457?cpa=1&clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dyb_search_rus-rostov&utm_term=18540670%7C101771574715&utm_content=cid%3A62532825%7Cgid%3A4586830511%7Caid%3A10781190599%7Cph%3A1743488%7Cpt%3Apremium%7Cpn%3A1%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A1743488%7Ccgcid%3A0&sku=101771574715"><img src="https://avatars.mds.yandex.net/get-mpic/7660527/img_id6590246081316973856.jpeg/orig" height="250"/></a>
 &nbsp; &nbsp;
-<a href="https://www.figma.com"><img src="https://avatars.mds.yandex.net/get-mpic/6263631/img_id663488737416869516.jpeg/orig" height="250"/></a>
+<a href="https://market.yandex.ru/product--javascript-dlia-professionalnykh-veb-razrabotchikov-4-e-mezhd-izd-frisbi-m/1451712986?clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dp_dety_model_knigi_dyb_search_rus&utm_content=cid%3A76985089%7Cgid%3A4986811949%7Caid%3A12515358267%7Cph%3A2733624%7Cpt%3Apremium%7Cpn%3A2%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A2733624%7Ccgcid%3A0&cpa=1"><img src="https://avatars.mds.yandex.net/get-mpic/6263631/img_id663488737416869516.jpeg/orig" height="250"/></a>
 &nbsp; &nbsp;
-<a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://cdn1.ozone.ru/s3/multimedia-1/wc1000/6102335545.jpg" height="250"/></a>
+<a href="https://market.yandex.ru/product--react-sovremennye-shablony-dlia-razrabotki-prilozhenii-2-e-izd/1736329132?clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dp_dety_model_knigi_dyb_search_rus&utm_content=cid%3A76985089%7Cgid%3A4986811949%7Caid%3A12515358267%7Cph%3A2733624%7Cpt%3Apremium%7Cpn%3A1%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A2733624%7Ccgcid%3A0&cpa=1"><img src="https://cdn1.ozone.ru/s3/multimedia-1/wc1000/6102335545.jpg" height="250"/></a>
 &nbsp; &nbsp;
-<a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://img3.labirint.ru/rc/6e371d8d2e44c8642b5cd69bb5cbe564/363x561q80/books71/704017/cover.jpg?1561541156" height="250"/></a></p>
+<a href="https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-zamykaniya-i-obekty-43123803/"><img src="https://img3.labirint.ru/rc/6e371d8d2e44c8642b5cd69bb5cbe564/363x561q80/books71/704017/cover.jpg?1561541156" height="250"/></a></p>
 
 
