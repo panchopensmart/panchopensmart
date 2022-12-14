@@ -28,3 +28,15 @@
 <p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" width="100"/></a><a href="https://www.figma.com"><img src="https://media.giphy.com/media/GFGDHw67eO1snrEqfY/giphy.gif" width="100"/></a><a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://media.giphy.com/media/L6NdhUFd5GBigmt3eF/giphy.gif" width="100"/></a><a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://media.giphy.com/media/tH16KZtl30ZO2RRH6T/giphy.gif" width="100"/></a></p>
 
 <br/>
+
+
+<h2>𝕄𝕪 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕓𝕠𝕠𝕜𝕤:</h2>
+<p><a href="https://www.jetbrains.com/phpstorm/"><img src="https://avatars.mds.yandex.net/get-mpic/7660527/img_id6590246081316973856.jpeg/orig" height="300"/></a>
+&nbsp; &nbsp;
+<a href="https://www.figma.com"><img src="https://avatars.mds.yandex.net/get-mpic/6263631/img_id663488737416869516.jpeg/orig" height="300"/></a>
+&nbsp; &nbsp;
+<a href="https://www.mozilla.org/ru/firefox/developer/"><img src="https://cdn1.ozone.ru/s3/multimedia-1/wc1000/6102335545.jpg" height="300"/></a>
+&nbsp; &nbsp;
+<a href="https://www.adobe.com/ru/products/illustrator.html"><img src="https://img3.labirint.ru/rc/6e371d8d2e44c8642b5cd69bb5cbe564/363x561q80/books71/704017/cover.jpg?1561541156" height="300"/></a></p>
+
+
