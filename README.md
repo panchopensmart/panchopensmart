@@ -37,6 +37,6 @@
 &nbsp; &nbsp;
 <a href="https://market.yandex.ru/product--react-sovremennye-shablony-dlia-razrabotki-prilozhenii-2-e-izd/1736329132?clid=1601&utm_source=yandex&utm_medium=search&utm_campaign=ymp_offer_dp_dety_model_knigi_dyb_search_rus&utm_content=cid%3A76985089%7Cgid%3A4986811949%7Caid%3A12515358267%7Cph%3A2733624%7Cpt%3Apremium%7Cpn%3A1%7Csrc%3Anone%7Cst%3Asearch%7Crid%3A2733624%7Ccgcid%3A0&cpa=1"><img src="https://cdn1.ozone.ru/s3/multimedia-1/wc1000/6102335545.jpg" height="250"/></a>
 &nbsp; &nbsp;
-<a href="https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-zamykaniya-i-obekty-43123803/"><img src="https://img3.labirint.ru/rc/6e371d8d2e44c8642b5cd69bb5cbe564/363x561q80/books71/704017/cover.jpg?1561541156" height="250"/></a></p>
+<a href="https://market.yandex.ru/product--gamma-e-khelm-r-dzhonson-r-vlissides-d-patterny-obektno-orientirovannogo-proektirovaniia/1781358470?cpc=c_s4465Q5Sl0K-Zq5rL_S92G6XhV28jwQpGcsmTLG0vUk9Z3LPiCF1Vvp5KSKzJw3425RaQ8cTITXMMdLhWHE6l-Xnz6ons5ZslSW7dBabLDbI5d67z1w7pmb6NnX4yfmiqEUnOY0-7RSUDq-wwvPvifWhx45bR19bhT8fCKEPoBwed97pUY6Xg82J_WmLuYmAWLfIcrVEGY2T0wT9qV6VtFTe0cg9B8&sku=781953068&offerid=zrp6XJAQgYsswPJDHo7Zkw&cpa=1"><img src="https://avatars.mds.yandex.net/get-mpic/3980374/img_id6799492809220251565.jpeg/orig" height="250"/></a></p>
 
 
