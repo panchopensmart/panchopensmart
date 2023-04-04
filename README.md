@@ -12,8 +12,7 @@
  <li>I like to develop computer games  <b> [+..••] </b> </li>
  <li>I like to solve algorithmic problems❤</li>
  <li>In my free time I study Computer Scince literature</li>
- <li>I do network administration</li>
- <li>I study OSI TCP/IP protocols</li>
+ <li>I do network and system administration🐧</li>
 </ul>
 <h1 align="center">
  
