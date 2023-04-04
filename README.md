@@ -6,7 +6,7 @@
 
 
 <h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
-<h3>My name is Alexandr. I'm 20 years old. I have experience several years in Frontend development. I publish my projects for the portfolio on this account.  </h3>
+<h3>My name is Alexandr. I'm 20 years old. I publish my open source projects on this account.  </h3>
 <ul>
  <li>I develop Fullstack projects</li>
  <li>I like to develop computer games  <b> [+..••] </b> </li>
