@@ -10,7 +10,7 @@
 <ul>
  <li>I develop Fullstack projects</li>
  <li>I like to develop computer games  <b> [+..••] </b> </li>
- <li>I like to solve algorithmic problems❤</li>
+ <li>I like to solve algorithmic problems ❤</li>
  <li>In my free time I study Computer Scince literature</li>
  <li>I do network and system administration Windows Server/Linux/Cisco</li>
 </ul>
