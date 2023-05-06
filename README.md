@@ -14,7 +14,4 @@
  <li>I do network and system administration Windows Server/Linux/Cisco</li>
 </ul>
 <h1 align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/panchopensmart)
-
 </h1>
