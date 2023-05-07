@@ -1,17 +1,12 @@
-
-
 <h1 align="center"> 
  Wow, it's good to see you!
 </h1>
 
 
-<h2>𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)</h2>
-<h3>My name is Alexandr. I'm 20 years old. I publish my open source projects on this account.  </h3>
-<ul>
- <li>I develop Fullstack projects</li>
- <li>I like to develop computer games  <b> [+..••] </b> </li>
- <li>In my free time I study Computer Scince literature</li>
- <li>I do network and system administration Windows Server/Linux/Cisco</li>
-</ul>
-<h1 align="center">
-</h1>
+### 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)
+### My name is Alexandr. I'm 20 years old. I publish my open source projects on this account.
+* I develop Fullstack projects
+* I like to play and develop interesting computer games [+..••]
+* In my free time I study [CS](https://roadmap.sh/computer-science "Computer science") and [S&AD](https://roadmap.sh/software-design-architecture "Software and Architecture Design ")
+* I do network and system administration Windows Server/Linux/Cisco
+
