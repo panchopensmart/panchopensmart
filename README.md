@@ -10,4 +10,4 @@
 * In my free time I study [CS](https://roadmap.sh/computer-science "Computer science") and [S&AD](https://roadmap.sh/software-design-architecture "Software and Architecture Design ")
 * I do network and system administration Windows Server/Linux/Cisco
 
-(This is our store [Welcome to us](https://mge-wear.vercel.app/))
+(This is our store [mgewear.online](https://www.mgewear.online/))
