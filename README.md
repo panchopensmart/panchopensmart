@@ -12,5 +12,3 @@
 <h2 align="center"> 
  My projects
 </h2>
-
-* [tgmetric.com](https://tgmetric.com) is service for Telegram, salut!
