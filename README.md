@@ -3,6 +3,5 @@
 </h1>
 
 
-## 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)
+### 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 (＾• ω •＾)
 ### My name is Alexandr. I'm 23 years old. I develop crypto projects for **The Open Network** <3
-<hr />
